@@ -1,0 +1,9 @@
+c:\users\nacer\documents\visual studio 2012\Projects\csharp_connect_to_mysql\csharp_connect_to_mysql\bin\Debug\csharp_connect_to_mysql.exe.config
+c:\users\nacer\documents\visual studio 2012\Projects\csharp_connect_to_mysql\csharp_connect_to_mysql\bin\Debug\csharp_connect_to_mysql.exe
+c:\users\nacer\documents\visual studio 2012\Projects\csharp_connect_to_mysql\csharp_connect_to_mysql\bin\Debug\csharp_connect_to_mysql.pdb
+c:\users\nacer\documents\visual studio 2012\Projects\csharp_connect_to_mysql\csharp_connect_to_mysql\obj\Debug\csharp_connect_to_mysql.csprojResolveAssemblyReference.cache
+c:\users\nacer\documents\visual studio 2012\Projects\csharp_connect_to_mysql\csharp_connect_to_mysql\obj\Debug\csharp_connect_to_mysql.Properties.Resources.resources
+c:\users\nacer\documents\visual studio 2012\Projects\csharp_connect_to_mysql\csharp_connect_to_mysql\obj\Debug\csharp_connect_to_mysql.csproj.GenerateResource.Cache
+c:\users\nacer\documents\visual studio 2012\Projects\csharp_connect_to_mysql\csharp_connect_to_mysql\obj\Debug\csharp_connect_to_mysql.exe
+c:\users\nacer\documents\visual studio 2012\Projects\csharp_connect_to_mysql\csharp_connect_to_mysql\obj\Debug\csharp_connect_to_mysql.pdb
+c:\users\nacer\documents\visual studio 2012\Projects\csharp_connect_to_mysql\csharp_connect_to_mysql\obj\Debug\csharp_connect_to_mysql.Open_Close_Connection.resources
