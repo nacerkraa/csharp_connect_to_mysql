@@ -24,11 +24,11 @@ namespace csharp_connect_to_mysql
         {
             try
             {
-                conn = new MySqlConnection("datasource= localhost;port=3306;username=root;password=123456789");
+                conn = new MySqlConnection("datasource= localhost;port=3306;username=root;password="your_pasword");
                 conn.Open();
                 if (conn.State == ConnectionState.Open)
                 {
-                    label1.Text = "Connected";
+                    label1.Text = "Connected succefuly";
                     label1.ForeColor = Color.Green;
                 }
                 else
